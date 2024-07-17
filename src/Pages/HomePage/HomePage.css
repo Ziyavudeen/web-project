@@ -1,0 +1,25 @@
+.Home{
+    /* background: url('public/image/Saveetha.jpg') no-repeat; */
+    /* background-size:cover; */
+    height: 580px;
+    /* width: 1500px; */
+    /* margin-right: 100px; */
+    background-color: cadetblue;
+    text-align: center;
+}
+body{
+    background-color: rgba(248, 244, 244, 0.671);
+}
+#p1{
+    font-size: xx-large;
+    font-style: normal;
+    color: rgb(233, 7, 7);
+    font-weight: bolder;
+    /* margin-top: 50px; */
+    padding-top: 90px;
+}
+#p2{
+    font-size: larger;
+    font-style: normal;
+    color: rgb(9, 9, 9);
+}

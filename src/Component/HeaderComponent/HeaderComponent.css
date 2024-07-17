@@ -1,0 +1,15 @@
+#h1{
+    margin-left: 40px;
+    font-style: normal;
+    font-size: x-large;
+    text-decoration: none;
+}
+a {
+     color: rgba(236, 97, 17, 0.861);
+}
+a.active{
+    color: rgb(227, 30, 30);
+}
+.heade{
+    text-align: center;
+}
